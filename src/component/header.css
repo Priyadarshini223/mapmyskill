@@ -1,0 +1,29 @@
+#header {
+    height: 75px;
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
+
+#header button {
+    background-color:#223f5e;
+    color: aliceblue;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+}
+#header .user{
+    color: #223f5e;
+    font-size: 55px;
+    margin-right: 10px;
+
+
+}

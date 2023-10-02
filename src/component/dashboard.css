@@ -1,0 +1,7 @@
+#dashboard{
+    height: 100vh;
+    width: calc(100% - 300px);
+    background-color: rgb(195, 202, 202);
+    display: inline-block;
+    position: absolute;
+}
